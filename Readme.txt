@@ -3,7 +3,7 @@
   The PctDriver folder contains code for the driver.
   The Test folder contains a test application code.
   
-  The solution was probably made in VS 2005, I do not remember.
+  I believe the solution was made in VS 2005, I do not remember the exact VS version I used for the project.
   The driver should be built by using WDK build environment (e.g. "build -cgwF" command ), the driver has been tested on 32 bit Windows Server 2003.
   The test application can be build from VS environment.
   
