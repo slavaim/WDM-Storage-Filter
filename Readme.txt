@@ -1,4 +1,4 @@
-  This is a WDM driver filter that I found on the old hard drive. I developed it in 2008 in one day to test some ideas. The interesting feature of the driver is using an asynchronous multithreaded processing to speed up filtering.
+  This is a WDM driver filter that I found on the old hard drive. I developed it in 2008 in one day to test some ideas. The interesting feature of the driver is using an asynchronous multithreaded processing to speed up filtering. There is no PnP processing in this driver as its goal was to test asyncronous processing in multiple threads.
   
   The PctDriver folder contains code for the driver.
   The Test folder contains a test application code.
