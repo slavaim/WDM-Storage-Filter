@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PctDriver", "PctDriver\PctDriver.vcproj", "{DE7DFCA1-6433-436F-80B1-97C0AC53020B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test", "test\test.vcproj", "{47BBB1A4-1606-4F35-AF88-AFB05D8C2D4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE7DFCA1-6433-436F-80B1-97C0AC53020B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DE7DFCA1-6433-436F-80B1-97C0AC53020B}.Debug|Win32.Build.0 = Debug|Win32
+		{DE7DFCA1-6433-436F-80B1-97C0AC53020B}.Release|Win32.ActiveCfg = Release|Win32
+		{DE7DFCA1-6433-436F-80B1-97C0AC53020B}.Release|Win32.Build.0 = Release|Win32
+		{47BBB1A4-1606-4F35-AF88-AFB05D8C2D4D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{47BBB1A4-1606-4F35-AF88-AFB05D8C2D4D}.Debug|Win32.Build.0 = Debug|Win32
+		{47BBB1A4-1606-4F35-AF88-AFB05D8C2D4D}.Release|Win32.ActiveCfg = Release|Win32
+		{47BBB1A4-1606-4F35-AF88-AFB05D8C2D4D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
