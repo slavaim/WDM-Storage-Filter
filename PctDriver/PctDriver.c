@@ -6,8 +6,6 @@ Copyright (c) 2008 Slava Imameev, All Rights Reserved
 Revision history:
 02.09.2008 ( September ) First version
 
-No any part of this code can be used in a commercial project.
-
 The features of the driver
   - user buffers must be aligned on the sector boundary
   - driver supports asynchronous IO ( overlapped IO )
