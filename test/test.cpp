@@ -5,8 +5,6 @@ Copyright (c) 2008 Slava Imameev, All Rights Reserved
 Revision history:
 02.09.2008 ( September )
  Initial version
-
-No any part of this code can be used in a commercial project.
 */
 
 #include "stdafx.h"
