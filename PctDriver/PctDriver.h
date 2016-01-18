@@ -4,8 +4,6 @@ Copyright (c) 2008 Slava Imameyev, All Rights Reserved
 Revision history:
 02.09.2008 ( September )
  Initial version
-
-No any part of this file can be used in a commercial project.
 */
 
 #include <ntddk.h>
