@@ -1,6 +1,6 @@
   The license model is a BSD Open Source License. This is a non-viral license, only asking that if you use it, you acknowledge the authors, in this case Slava Imameev.
   
-  This is a WDM driver that I found on the old hard drive. The driver allows to issue read and write requests to a storage from user mode application bypassing attached file systems. I developed it in 2008 in one day to test some ideas. The interesting feature of the driver is using an asynchronous multithreaded processing to speed up IO processing from user. There is no PnP processing in this driver as its goal was to test asynchronous IO processing in multiple threads without attaching to a device objects stack.
+  This is a WDM driver that I found on the old hard drive. The driver allows to issue read and write requests to a storage from user mode application bypassing attached file systems. I developed it in 2008 in one day to test some ideas. The interesting feature of the driver is using an asynchronous multithreaded processing to speed up IO processing from a client application. There is no PnP processing in this driver as its goal was to test asynchronous IO processing in multiple threads without attaching to a device objects stack. The driver can be used to implement a scanner for storage devices content.
   
   The PctDriver folder contains code for the driver.
   The Test folder contains a test application code.
